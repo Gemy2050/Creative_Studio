@@ -152,6 +152,7 @@ ul {
   margin-right: 30px;
 }
 .header .container ul {
+  backdrop-filter: blur(17px);
   display: flex;
   justify-content: space-between;
 }
